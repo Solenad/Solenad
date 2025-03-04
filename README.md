@@ -17,7 +17,6 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;`About Me`
 
 <img align="right" style="padding-right: 30px" width="400" src="https://github-readme-stats.vercel.app/api?username=Solenad"/>
-<p align="right"> Github stats (my other account had 250 contributions last year</p>
 
 <div>
 	<p>✔ 2nd year college student</p>
@@ -60,4 +59,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Solenad)](https://git.io/streak-stats)
