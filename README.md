@@ -62,7 +62,7 @@
 <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad"/>
 <div align="left">
 
-<h3">‍💻 Languages</h3>
+<h3>‍💻 Languages</h3>
 
 &nbsp;<img height="20" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
