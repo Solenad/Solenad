@@ -24,9 +24,9 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 	<p>✔ VOLLEYBALL JUNKIE 🏐🏐</p>
 	<p>✔ I'm a reader 📖</p>
 </div>
-<div style="position: absolute; right: 0;">
-	<img src="https://picsvg.com/svg/fy9e2a.jpg" width="150" />
-</div>
+<p align="right">
+	<img src="https://picsvg.com/svg/fy9e2a.jpg" width="100" />
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solenad)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad)](https://github.com/anuraghazra/github-readme-stats)
