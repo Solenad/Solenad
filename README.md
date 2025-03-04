@@ -98,9 +98,7 @@
 <br><br><br>
 
 ## <img width="30" src="https://media4.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif?cid=6c09b952hc4o67edn9jzpwfp0z9eyy2hpxl9wmrae42w50uj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" />`Github Streak`
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Solenad" alt="GitHub Streak" /></a>
-</p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=Solenad&theme=midnight-purple)](https://git.io/streak-stats)
 <p align="center">
 <strong>🔥The grind does not stop (maybe)</strong>
 </p>
