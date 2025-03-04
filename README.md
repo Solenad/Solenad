@@ -15,7 +15,7 @@
 </p>
 
 
-## `**about me**`
+## `about me`
 
 <div>
 	<p>✔ 2nd year college student</p>
