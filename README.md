@@ -95,7 +95,7 @@
 &nbsp;<img height="20" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
-<br><br><br>
+<br>
 
 ## <img width="30" src="https://media4.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif?cid=6c09b952hc4o67edn9jzpwfp0z9eyy2hpxl9wmrae42w50uj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" />`Github Streak`
 <p align="center">
