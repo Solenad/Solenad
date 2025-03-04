@@ -16,7 +16,7 @@
     
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;`About Me`
 
-<img align="right" style="padding-right: 30px" width="400" src="https://github-readme-stats.vercel.app/api?username=Solenad"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Solenad"/>
 
 <div>
 	<p>✔ 2nd year college student</p>
@@ -28,7 +28,11 @@
 
 <br>
 
-## 🏠&nbsp;`Organizations`
+
+
+<br>
+
+## 🏠 Organizations
 
 <p align="center">
   <span>
@@ -52,8 +56,13 @@
 
 
 
-## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 40px> `Languages and Tools`
-<h3>‍💻 Languages</h3>
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 40px> `Tech`
+&nbsp;
+
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad"/>
+<div align="left">
+
+<h3">‍💻 Languages</h3>
 
 &nbsp;<img height="20" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -89,9 +98,8 @@
 &nbsp;<img height="20" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
 
+<br>
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Solenad&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Solenad)](https://git.io/streak-stats)
