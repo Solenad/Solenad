@@ -19,7 +19,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ## **About Me**
 <div>
 	<p>✔ 2nd year college student</p>
-	<p>✔ In charge of development in my college's org</p>
+	<p>✔ Practices development in LSCS</p>
+	<p>✔ Hackathon enthusiast (I haven't one won yet:<strong> 0-2 record)</strong></p>
 </div>
 
  [![LSCS Icon](https://picsvg.com/svg/fy9e2a.jpg)
