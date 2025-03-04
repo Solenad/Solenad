@@ -28,10 +28,6 @@
 
 <br>
 
-
-
-<br>
-
 ## 🏠&nbsp;`Organizations`
 
 <p align="center">
