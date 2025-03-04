@@ -26,11 +26,6 @@
 	<p>✔ I'm a reader 📖</p>
 </div>
 
-<br>
-
-
-
-<br>
 
 ## 🏠 Organizations
 
@@ -57,10 +52,10 @@
 
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 40px> `Tech`
-&nbsp;
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad"/>
-<div align="left">
+
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad"/>
+<div align="center">
 
 <h3>‍💻 Languages</h3>
 
@@ -100,6 +95,13 @@
 &nbsp;<img height="20" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
-<br>
+<br><br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Solenad)](https://git.io/streak-stats)
+## <img width="30" src="https://media4.giphy.com/media/47GPQ7ZzivsemHKPvB/giphy.gif?cid=6c09b952hc4o67edn9jzpwfp0z9eyy2hpxl9wmrae42w50uj&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" />`Github Streak`
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Solenad&theme=midnight-purple" alt="GitHub Streak" /></a>
+</p>
+<p align="center">
+<strong>🔥The grind does not stop (maybe)</strong>
+</p>
+
