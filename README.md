@@ -22,8 +22,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 	<p>✔ Practices development in LSCS</p>
 	<p>✔ Hackathon enthusiast (I haven't one won yet:<strong> 0-2 record</strong>)</p>
 	<p>✔ VOLLEYBALL JUNKIE 🏐🏐</p>
-	<p>✔ Instruments list: ![acoustic-guitar](https://github.com/user-attachments/assets/7f5b0dd3-a4aa-4aec-9e86-9cce54bd6d05)
- </p>
+	<p>✔ I'm a reader 📖</p>
 </div>
 
  [![LSCS Icon](https://picsvg.com/svg/fy9e2a.jpg)
