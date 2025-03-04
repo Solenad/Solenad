@@ -18,7 +18,7 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <div class="about-me">
-	<h1>  About Me</h1>
+	<h2>  About Me</h2>
 	<p> test</p>
 </div>
 
