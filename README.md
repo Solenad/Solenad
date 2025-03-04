@@ -102,6 +102,6 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-kohl-alpha.vercel.app?user=Solenad&theme=midnight-purple&locale=fil" alt="GitHub Streak" /></a>
 </p>
 <p align="center">
-<strong>🔥The grind does not stop (maybe)</strong>
+🔥Click it to get your own!
 </p>
 
