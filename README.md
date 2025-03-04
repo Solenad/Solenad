@@ -18,10 +18,8 @@
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 ## **About Me**
 <div>
-	<ul>
-		<li>✔ 2nd year college student</li>
-		<li>✔ In charge of development in my college's org</li>
-	</ul>
+	<p>✔ 2nd year college student
+		✔ In charge of development in my college's org</p>
 </div>
 
  [![LSCS Icon](https://picsvg.com/svg/fy9e2a.jpg)
