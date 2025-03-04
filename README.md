@@ -34,14 +34,14 @@
 
 ## 🏠&nbsp;`Organizations`
 <div align="center">
-  <div style="display: inline-block; margin: 0 10px;">
+  <div>
     <a href="https://www.facebook.com/LaSalleComputerSociety">
       <img width="150" src="https://picsvg.com/svg/fy9e2a.jpg"/>
     </a>
     <p>La Salle Computer Society</p>
   </div>
 
-  <div style="display: inline-block; margin: 0 10px;">
+  <div>
     <a href="https://www.facebook.com/GDGoCDLSU">
       <img width="150" src="https://scontent.fmnl4-1.fna.fbcdn.net/v/t39.30808-6/474444678_619379693793371_5071102139988313382_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG--MzReKikI2yEK1o9Q8aehX8Z-pJVtMCFfxn6klW0wI233Tuv8Ya2pfzU-R5o1-o79f9JjKYoZ9V5cUHw3pR5&_nc_ohc=UFq6Ywv3HmsQ7kNvgHUZmXD&_nc_oc=AdhEPX92zW0WCpksUrs2vaKe7IXI3iQVvXvyCgrXiM92h_7Z5Zz6oFv72TD1UW8zGnUIbEsSBVGcyb73aYaXWjuZ&_nc_zt=23&_nc_ht=scontent.fmnl4-1.fna&_nc_gid=Ae5AnxVYjNgFZiAGm1bxWAl&oh=00_AYCwI7u6TLE4mBeM7Qyn8Pc_uhfN0KyeSY7gWn3pVDblUg&oe=67CCD213"/>
     </a>
