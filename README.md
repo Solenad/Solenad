@@ -60,7 +60,7 @@
 &nbsp;
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad"/>
-<div align="center">
+<div align="left">
 
 <h3>‍💻 Languages</h3>
 
