@@ -16,7 +16,8 @@
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<p style="font-size: 80px; font-weight: bold">about me</p>
+<h2><b>about me</b></h2>
+
 <div>
 	<p>✔ 2nd year college student</p>
 	<p>✔ Practices development in LSCS</p>
