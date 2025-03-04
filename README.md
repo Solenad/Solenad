@@ -16,7 +16,7 @@
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-## **About Me**
+## **About Me**  
 <div>
 	<p>✔ 2nd year college student</p>
 	<p>✔ Practices development in LSCS</p>
