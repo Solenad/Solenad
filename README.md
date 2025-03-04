@@ -34,7 +34,7 @@
 
 ## 🏠&nbsp;`Organizations`
 <div align="center">
-  <div style="display: inline-block; text-align: center; margin: 0 20px;">
+  <div style="display: inline-block; margin: 0 20px;">
     <a href="https://www.facebook.com/LaSalleComputerSociety">
       <img width="150" src="https://picsvg.com/svg/fy9e2a.jpg"/>
     </a>
