@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 <div class="about-me">
 	<h1>  About Me</h1>
-	[![-----------------------------------------------------]
+	
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solenad)](https://github.com/anuraghazra/github-readme-stats)  
