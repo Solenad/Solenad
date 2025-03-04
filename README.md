@@ -17,16 +17,20 @@
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 ## **About Me**
-<div>
-	<p>✔ 2nd year college student</p>
-	<p>✔ Practices development in LSCS</p>
-	<p>✔ Hackathon enthusiast (I haven't one won yet:<strong> 0-2 record</strong>)</p>
-	<p>✔ VOLLEYBALL JUNKIE 🏐🏐</p>
-	<p>✔ I'm a reader 📖</p>
-</div>
-<p align="right">
-	<img src="https://picsvg.com/svg/fy9e2a.jpg" width="100" />
-</p>
+<table>
+  <tr>
+    <td>
+      <p>✔ 2nd year college student</p>
+      <p>✔ Practices development in LSCS</p>
+      <p>✔ Hackathon enthusiast (I haven't won one yet: <strong>0-2 record</strong>)</p>
+      <p>✔ VOLLEYBALL JUNKIE 🏐🏐</p>
+      <p>✔ I'm a reader 📖</p>
+    </td>
+    <td>
+      <img src="https://picsvg.com/svg/fy9e2a.jpg" width="150" />
+    </td>
+  </tr>
+</table>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solenad)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad)](https://github.com/anuraghazra/github-readme-stats)
