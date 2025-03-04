@@ -16,7 +16,8 @@
     
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;`About Me`
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Solenad)](https://github.com/anuraghazra/github-readme-stats "/>
+<img align="right" style="padding-right: 30px" width="400" src="https://github-readme-stats.vercel.app/api?username=Solenad"/>
+
 <div>
 	<p>✔ 2nd year college student</p>
 	<p>✔ Backend developer in LSCS</p>
@@ -56,3 +57,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad)](https://github.com/anuraghazra/github-readme-stats)
+
