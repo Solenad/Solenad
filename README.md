@@ -14,9 +14,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Average%20Student%20Programmer;Backend%20Developer%20;Full-stack%20in%20the%20making;&font=Fira%20Code&center=true&width=440&height=65&color=d0a1e5&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<h2><b>about me</b></h2>
+
+## **`about me` **
 
 <div>
 	<p>✔ 2nd year college student</p>
