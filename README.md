@@ -54,8 +54,8 @@
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 40px> `Tech`
 
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad"/>
-<div align="left">
+<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad"/>
+<div align="center">
 
 <h3>‍💻 Languages</h3>
 
