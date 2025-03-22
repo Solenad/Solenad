@@ -23,7 +23,7 @@
 	<p>✔ Backend developer in LSCS</p>
 	<p>✔ Hackathon enthusiast (I haven't one won yet:<strong> 0-2 record</strong>)</p>
 	<p>✔ VOLLEYBALL JUNKIE 🏐🏐</p>
-	<p>✔ I'm a reader 📖</p>
+	<p>✔ I like to read 📖</p>
 </div>
 
 
