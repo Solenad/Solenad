@@ -21,7 +21,7 @@
 <div>
 	<p>✔ 2nd year college student</p>
 	<p>✔ Backend developer in LSCS</p>
-	<p>✔ Hackathon enthusiast (I haven't one won yet:<strong> 0-2 record</strong>)</p>
+	<p>✔ Hackathon enthusiast (I have never won:<strong> 0-2 record</strong>)</p>
 	<p>✔ VOLLEYBALL JUNKIE 🏐🏐</p>
 	<p>✔ I like to read 📖</p>
 </div>
