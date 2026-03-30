@@ -35,8 +35,6 @@
 
 <h3>‍💻 Languages</h3>
 
-<h3>‍💻 Languages</h3>
-
 &nbsp;<img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
