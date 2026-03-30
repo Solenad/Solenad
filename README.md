@@ -29,18 +29,19 @@
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 40px> `Tech`
 
 
-<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad"/>
-<div align="center">
+<img align="top" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad"/>
+
+<div align="left">
 
 <h3>‍💻 Languages</h3>
 
+<h3>‍💻 Languages</h3>
 
 &nbsp;<img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
 &nbsp;<img height="20" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
@@ -48,8 +49,10 @@
 <h3>⚡Database and Cloud Hosting</h3>
 
 &nbsp;<img height="20" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+&nbsp;<img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=Cloudinary&logoColor=white" />
+&nbsp;<img height="20" src="https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" />
 
 <h3>🚀Frameworks & Library</h3>
 
@@ -66,10 +69,13 @@
 &nbsp;<img height="20" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-&nbsp;<img height="20" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+&nbsp;<img height="20" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+&nbsp;<img height="20" src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+&nbsp;<img height="20" src="https://img.shields.io/badge/Open_Source-%233DA639.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 &nbsp;<img height="20" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+&nbsp;<img height="20" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
 
 <br>
