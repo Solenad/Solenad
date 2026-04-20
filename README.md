@@ -16,7 +16,7 @@
     
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;`About Me`
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Solenad"/>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Solenad&show_icons=true&theme=dracula"/>
 
 <div>
 	<p>✔ software developer intern @ siklab</p>
