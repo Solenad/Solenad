@@ -19,11 +19,10 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Solenad"/>
 
 <div>
-	<p>✔ 2nd year college student</p>
-	<p>✔ Backend developer in LSCS</p>
-	<p>✔ Hackathon enthusiast (I have never won:<strong> 0-2 record</strong>)</p>
-	<p>✔ VOLLEYBALL JUNKIE 🏐🏐</p>
-	<p>✔ I like to read 📖</p>
+	<p>✔ software developer intern @ siklab</p>
+	<p>✔ 3rd year computer science student @ dlsu</p>
+	<p>✔ Tech lead and developer @ lscs</p>
+	<p>✔ I make biscoff lattes while eating biscoff cookies thrice a day </p>
 </div>
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 40px> `Tech`
