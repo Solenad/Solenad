@@ -16,7 +16,7 @@
     
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;`About Me`
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Solenad&show_icons=true&theme=dracula"/>
+<img align="right" width="350" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Solenad&theme=nightowl"/>
 
 <div>
 	<p>✔ software developer intern @ siklab</p>
@@ -24,11 +24,12 @@
 	<p>✔ Tech lead and developer @ lscs</p>
 	<p>✔ I make biscoff lattes while eating biscoff cookies thrice a day </p>
 </div>
+<br>  
+
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 40px> `Tech`
 
 
-<img align="top" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solenad"/>
 
 <div align="left">
 
